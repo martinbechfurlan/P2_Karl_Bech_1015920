@@ -1,0 +1,3 @@
+C:\Users\marti\source\repos\P2_Karl_Bech_1015920\P2_Karl_Bech_1015920\Debug\P2_Karl_Bech_1015920.vcxprojAssemblyReference.cache
+C:\Users\marti\source\repos\P2_Karl_Bech_1015920\P2_Karl_Bech_1015920\Debug\P2_Karl_Bech_1015920.MyForm.resources
+C:\Users\marti\source\repos\P2_Karl_Bech_1015920\P2_Karl_Bech_1015920\Debug\P2_Karl_Bech_1015920.vcxproj.GenerateResource.cache

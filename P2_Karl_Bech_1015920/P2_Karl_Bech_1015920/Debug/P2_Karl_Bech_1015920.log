@@ -1,0 +1,32 @@
+﻿  Buscador.cpp
+  Lista.cpp
+  MyForm.cpp
+C:\Users\marti\source\repos\P2_Karl_Bech_1015920\P2_Karl_Bech_1015920\MyForm.h(2,10): warning C4067: símbolos (token) inesperados después de la directiva del preprocesador; se esperaba una nueva línea
+C:\Users\marti\source\repos\P2_Karl_Bech_1015920\P2_Karl_Bech_1015920\MyForm.h(3,10): warning C4067: símbolos (token) inesperados después de la directiva del preprocesador; se esperaba una nueva línea
+C:\Users\marti\source\repos\P2_Karl_Bech_1015920\P2_Karl_Bech_1015920\MyForm.h(4,10): warning C4067: símbolos (token) inesperados después de la directiva del preprocesador; se esperaba una nueva línea
+C:\Users\marti\source\repos\P2_Karl_Bech_1015920\P2_Karl_Bech_1015920\MyForm.h(5,10): warning C4067: símbolos (token) inesperados después de la directiva del preprocesador; se esperaba una nueva línea
+C:\Users\marti\source\repos\P2_Karl_Bech_1015920\P2_Karl_Bech_1015920\MyForm.h(510,17): warning C4677: 'bahias': la signatura de un miembro no privado contiene un tipo privado de ensamblado de 'Lista'
+C:\Users\marti\source\repos\P2_Karl_Bech_1015920\P2_Karl_Bech_1015920\Lista.h(5): message : vea la declaración de 'Lista'
+C:\Users\marti\source\repos\P2_Karl_Bech_1015920\P2_Karl_Bech_1015920\MyForm.h(511,18): warning C4677: 'bahias2': la signatura de un miembro no privado contiene un tipo privado de ensamblado de 'Lista'
+C:\Users\marti\source\repos\P2_Karl_Bech_1015920\P2_Karl_Bech_1015920\Lista.h(5): message : vea la declaración de 'Lista'
+C:\Users\marti\source\repos\P2_Karl_Bech_1015920\P2_Karl_Bech_1015920\MyForm.h(512,19): warning C4677: 'Producto': la signatura de un miembro no privado contiene un tipo privado de ensamblado de 'Lista'
+C:\Users\marti\source\repos\P2_Karl_Bech_1015920\P2_Karl_Bech_1015920\Lista.h(5): message : vea la declaración de 'Lista'
+C:\Users\marti\source\repos\P2_Karl_Bech_1015920\P2_Karl_Bech_1015920\MyForm.h(513,17): warning C4677: 'Bodega': la signatura de un miembro no privado contiene un tipo privado de ensamblado de 'Lista'
+C:\Users\marti\source\repos\P2_Karl_Bech_1015920\P2_Karl_Bech_1015920\Lista.h(5): message : vea la declaración de 'Lista'
+C:\Users\marti\source\repos\P2_Karl_Bech_1015920\P2_Karl_Bech_1015920\MyForm.h(514,21): warning C4677: 'BodegaCopy': la signatura de un miembro no privado contiene un tipo privado de ensamblado de 'Lista'
+C:\Users\marti\source\repos\P2_Karl_Bech_1015920\P2_Karl_Bech_1015920\Lista.h(5): message : vea la declaración de 'Lista'
+C:\Users\marti\source\repos\P2_Karl_Bech_1015920\P2_Karl_Bech_1015920\MyForm.h(515,19): warning C4677: 'Entradas': la signatura de un miembro no privado contiene un tipo privado de ensamblado de 'Lista'
+C:\Users\marti\source\repos\P2_Karl_Bech_1015920\P2_Karl_Bech_1015920\Lista.h(5): message : vea la declaración de 'Lista'
+C:\Users\marti\source\repos\P2_Karl_Bech_1015920\P2_Karl_Bech_1015920\MyForm.h(516,21): warning C4677: 'NoEntradas': la signatura de un miembro no privado contiene un tipo privado de ensamblado de 'Lista'
+C:\Users\marti\source\repos\P2_Karl_Bech_1015920\P2_Karl_Bech_1015920\Lista.h(5): message : vea la declaración de 'Lista'
+C:\Users\marti\source\repos\P2_Karl_Bech_1015920\P2_Karl_Bech_1015920\MyForm.h(517,18): warning C4677: 'orden': la signatura de un miembro no privado contiene un tipo privado de ensamblado de 'Ordenar'
+C:\Users\marti\source\repos\P2_Karl_Bech_1015920\P2_Karl_Bech_1015920\Ordenar.h(4): message : vea la declaración de 'Ordenar'
+C:\Users\marti\source\repos\P2_Karl_Bech_1015920\P2_Karl_Bech_1015920\MyForm.h(518,22): warning C4677: 'lisOrdenada': la signatura de un miembro no privado contiene un tipo privado de ensamblado de 'Lista'
+C:\Users\marti\source\repos\P2_Karl_Bech_1015920\P2_Karl_Bech_1015920\Lista.h(5): message : vea la declaración de 'Lista'
+  Nodo.cpp
+  NumMin.cpp
+  Ordenar.cpp
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  Generando código...
+  Buscador.obj : se encontró un módulo MSIL; vinculación incremental deshabilitada para MSIL; ejecutando vínculo completo
+  P2_Karl_Bech_1015920.vcxproj -> C:\Users\marti\source\repos\P2_Karl_Bech_1015920\Debug\P2_Karl_Bech_1015920.exe
